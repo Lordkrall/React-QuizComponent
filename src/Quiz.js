@@ -8,7 +8,10 @@ render()
 {
   return <div>Quiz</div>
 }
-
+constructor(props)
+{
+  super(props)
+}
 }
 
 export default Quiz
