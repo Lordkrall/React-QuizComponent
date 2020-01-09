@@ -6,7 +6,7 @@ class Quiz extends Component
 {
 render()
 {
-  return <div><div className=QuizQuestion</div>
+  return <div><div className=QuizQuestion</div></div>
 }
 constructor(props)
 {
