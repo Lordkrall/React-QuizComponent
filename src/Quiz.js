@@ -11,6 +11,7 @@ render()
 constructor(props)
 {
   super(props)
+  this.state = {quiz_position: 1}
 }
 }
 
